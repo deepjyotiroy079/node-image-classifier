@@ -1,5 +1,5 @@
 {
-  "name": "tensorflow-nodejs",
+  "name": "node-image-classifier",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
