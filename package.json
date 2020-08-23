@@ -1,0 +1,16 @@
+{
+  "name": "tensorflow-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.0.4",
+    "@tensorflow/tfjs": "^2.3.0",
+    "@tensorflow/tfjs-node": "^2.3.0"
+  }
+}
