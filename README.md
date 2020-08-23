@@ -16,7 +16,7 @@ Go to the project folder, and Open the Terminal to that path.
 
 Two images are already added in the repository. You can use any image you have, just paste it in the project folder and give the name as the argument.
 
-<img src="https://github.com/deepjyotiroy079/node-image-classifier/blob/master/dog.jpg" height="400" width="300">
+<img src="https://github.com/deepjyotiroy079/node-image-classifier/blob/master/dog.jpg" height="400" width="360">
 
 - Run the file **_(app.js)_** with an image file as an argument.
 
